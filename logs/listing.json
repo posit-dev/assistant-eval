@@ -1,0 +1,110 @@
+{
+  "codex-console-gpt-6-1-sol/2026-10-23T14-56-47-00-00_codex-bluffbench2_A2CGhmLZFimETgdv74QXoY.eval": {
+    "eval_id": "Sgqa8CeTNQB9Zda5grqPEX",
+    "run_id": "fATAr7GAXM85k7BQ39ZYow",
+    "task": "codex_bluffbench2",
+    "task_id": "A2CGhmLZFimETgdv74QXoY",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openai/gpt-6.1-sol",
+    "started_at": "2026-10-23T14:56:47+00:00",
+    "completed_at": "2026-10-23T16:13:44+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.08974358974358973,
+      "params": {}
+    }
+  },
+  "codex-shell-gpt-6-1-sol/2026-10-23T14-57-51-00-00_codex-bluffbench2_UavR2QrfgUrwcCzwFMe5dF.eval": {
+    "eval_id": "PUjyqdPWcjH6wDsoPLrsgo",
+    "run_id": "ksVGVUxrh3XXa8Yxv5FteA",
+    "task": "codex_bluffbench2",
+    "task_id": "UavR2QrfgUrwcCzwFMe5dF",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openai/gpt-6.1-sol",
+    "started_at": "2026-10-23T14:57:51+00:00",
+    "completed_at": "2026-10-23T16:09:15+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.11538461538461536,
+      "params": {}
+    }
+  },
+  "posit-assistant-gpt-6-1-sol/2026-10-22T21-26-32-00-00_posit-eval_gFogWjc9WJfC2b6dk8yuNV.eval": {
+    "eval_id": "fzmvmD5kW9CW4vYAdDNRVy",
+    "run_id": "P5szmLQw7NYwrtzigTSFNd",
+    "task": "posit_eval",
+    "task_id": "gFogWjc9WJfC2b6dk8yuNV",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openai/gpt-6.1-sol",
+    "started_at": "2026-10-22T21:26:32+00:00",
+    "completed_at": "2026-10-22T21:53:25+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.16666666666666666,
+      "params": {}
+    }
+  },
+  "claude-code-console-claude-sonnet-5-5/2026-10-23T14-54-44-00-00_cc-bluffbench2_XjTPAJ5fao9YqdpMxQAe4J.eval": {
+    "eval_id": "F4E6gFkaekUMi4mJsVZNDJ",
+    "run_id": "FYKhzT2JoAPZhNXr8LwojH",
+    "task": "cc_bluffbench2",
+    "task_id": "XjTPAJ5fao9YqdpMxQAe4J",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "anthropic/claude-sonnet-5-5",
+    "started_at": "2026-10-23T14:54:44+00:00",
+    "completed_at": "2026-10-23T16:39:48+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.37820512820512814,
+      "params": {}
+    }
+  },
+  "claude-code-shell-claude-sonnet-5-5/2026-10-23T14-55-44-00-00_cc-bluffbench2_P2aoAdEiByVTWQw7XWZURC.eval": {
+    "eval_id": "nLk8XeXndVG3H75NmEybFm",
+    "run_id": "hXMCxmG8UA9UJuPj8nJP6f",
+    "task": "cc_bluffbench2",
+    "task_id": "P2aoAdEiByVTWQw7XWZURC",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "anthropic/claude-sonnet-5-5",
+    "started_at": "2026-10-23T14:55:44+00:00",
+    "completed_at": "2026-10-23T16:33:31+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.423076923076923,
+      "params": {}
+    }
+  },
+  "posit-assistant-claude-sonnet-5-5/2026-10-22T20-22-34-00-00_posit-eval_cZZ3iUeMHVhqKDnJWvrrcg.eval": {
+    "eval_id": "kmP7Gm6vDJBR2D3UALgibd",
+    "run_id": "53LoGzhLuZMhuATnFmbZMf",
+    "task": "posit_eval",
+    "task_id": "cZZ3iUeMHVhqKDnJWvrrcg",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "anthropic/claude-sonnet-5-5",
+    "started_at": "2026-10-22T20:22:34+00:00",
+    "completed_at": "2026-10-22T20:36:22+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.423076923076923,
+      "params": {}
+    }
+  }
+}
