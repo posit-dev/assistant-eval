@@ -1,8 +1,8 @@
 {
-  "codex-console-gpt-6-1-sol/2026-10-23T14-56-47-00-00_codex-bluffbench2_A2CGhmLZFimETgdv74QXoY.eval": {
+  "codex-console-gpt-6-1-sol/2026-10-23T14-56-47-00-00_bluffbench2-codex_A2CGhmLZFimETgdv74QXoY.eval": {
     "eval_id": "Sgqa8CeTNQB9Zda5grqPEX",
     "run_id": "fATAr7GAXM85k7BQ39ZYow",
-    "task": "codex_bluffbench2",
+    "task": "bluffbench2_codex",
     "task_id": "A2CGhmLZFimETgdv74QXoY",
     "task_version": 0,
     "version": 2,
@@ -17,10 +17,10 @@
       "params": {}
     }
   },
-  "codex-shell-gpt-6-1-sol/2026-10-23T14-57-51-00-00_codex-bluffbench2_UavR2QrfgUrwcCzwFMe5dF.eval": {
+  "codex-shell-gpt-6-1-sol/2026-10-23T14-57-51-00-00_bluffbench2-codex_UavR2QrfgUrwcCzwFMe5dF.eval": {
     "eval_id": "PUjyqdPWcjH6wDsoPLrsgo",
     "run_id": "ksVGVUxrh3XXa8Yxv5FteA",
-    "task": "codex_bluffbench2",
+    "task": "bluffbench2_codex",
     "task_id": "UavR2QrfgUrwcCzwFMe5dF",
     "task_version": 0,
     "version": 2,
@@ -35,10 +35,10 @@
       "params": {}
     }
   },
-  "posit-assistant-gpt-6-1-sol/2026-10-22T21-26-32-00-00_posit-eval_gFogWjc9WJfC2b6dk8yuNV.eval": {
+  "posit-assistant-gpt-6-1-sol/2026-10-22T21-26-32-00-00_bluffbench2-posit-assistant_gFogWjc9WJfC2b6dk8yuNV.eval": {
     "eval_id": "fzmvmD5kW9CW4vYAdDNRVy",
     "run_id": "P5szmLQw7NYwrtzigTSFNd",
-    "task": "posit_eval",
+    "task": "bluffbench2_posit_assistant",
     "task_id": "gFogWjc9WJfC2b6dk8yuNV",
     "task_version": 0,
     "version": 2,
@@ -53,10 +53,10 @@
       "params": {}
     }
   },
-  "claude-code-console-claude-sonnet-5-5/2026-10-23T14-54-44-00-00_cc-bluffbench2_XjTPAJ5fao9YqdpMxQAe4J.eval": {
+  "claude-code-console-claude-sonnet-5-5/2026-10-23T14-54-44-00-00_bluffbench2-claude-code_XjTPAJ5fao9YqdpMxQAe4J.eval": {
     "eval_id": "F4E6gFkaekUMi4mJsVZNDJ",
     "run_id": "FYKhzT2JoAPZhNXr8LwojH",
-    "task": "cc_bluffbench2",
+    "task": "bluffbench2_claude_code",
     "task_id": "XjTPAJ5fao9YqdpMxQAe4J",
     "task_version": 0,
     "version": 2,
@@ -71,10 +71,10 @@
       "params": {}
     }
   },
-  "claude-code-shell-claude-sonnet-5-5/2026-10-23T14-55-44-00-00_cc-bluffbench2_P2aoAdEiByVTWQw7XWZURC.eval": {
+  "claude-code-shell-claude-sonnet-5-5/2026-10-23T14-55-44-00-00_bluffbench2-claude-code_P2aoAdEiByVTWQw7XWZURC.eval": {
     "eval_id": "nLk8XeXndVG3H75NmEybFm",
     "run_id": "hXMCxmG8UA9UJuPj8nJP6f",
-    "task": "cc_bluffbench2",
+    "task": "bluffbench2_claude_code",
     "task_id": "P2aoAdEiByVTWQw7XWZURC",
     "task_version": 0,
     "version": 2,
@@ -89,10 +89,10 @@
       "params": {}
     }
   },
-  "posit-assistant-claude-sonnet-5-5/2026-10-22T20-22-34-00-00_posit-eval_cZZ3iUeMHVhqKDnJWvrrcg.eval": {
+  "posit-assistant-claude-sonnet-5-5/2026-10-22T20-22-34-00-00_bluffbench2-posit-assistant_cZZ3iUeMHVhqKDnJWvrrcg.eval": {
     "eval_id": "kmP7Gm6vDJBR2D3UALgibd",
     "run_id": "53LoGzhLuZMhuATnFmbZMf",
-    "task": "posit_eval",
+    "task": "bluffbench2_posit_assistant",
     "task_id": "cZZ3iUeMHVhqKDnJWvrrcg",
     "task_version": 0,
     "version": 2,
@@ -107,10 +107,10 @@
       "params": {}
     }
   },
-  "deepswe-claude-code-claude-sonnet-5-5/2026-10-27T20-59-54-00-00_datacurve-deep-swe-1-1_NgTtewjGpPkqegmrtU2c5U.eval": {
+  "deepswe-claude-code-claude-sonnet-5-5/2026-10-27T20-59-54-00-00_deepswe-claude-code_NgTtewjGpPkqegmrtU2c5U.eval": {
     "eval_id": "H4dwLj4i2X7FVMh2NB5p4n",
     "run_id": "J9zjYJP9Yd9S9rNdcRAUqJ",
-    "task": "inspect_harbor/datacurve_deep_swe_1_1",
+    "task": "deepswe_claude_code",
     "task_id": "NgTtewjGpPkqegmrtU2c5U",
     "task_version": 0,
     "version": 2,
@@ -125,10 +125,10 @@
       "params": {}
     }
   },
-  "deepswe-codex-gpt-6-1-sol/2026-10-27T20-59-49-00-00_datacurve-deep-swe-1-1_cCDEqLp68cKdt53zgXch9z.eval": {
+  "deepswe-codex-gpt-6-1-sol/2026-10-27T20-59-49-00-00_deepswe-codex_cCDEqLp68cKdt53zgXch9z.eval": {
     "eval_id": "8Y3ybXTNGKA8YYoK7P5gAr",
     "run_id": "2hQr2zqELM5jjhUDymsKNf",
-    "task": "inspect_harbor/datacurve_deep_swe_1_1",
+    "task": "deepswe_codex",
     "task_id": "cCDEqLp68cKdt53zgXch9z",
     "task_version": 0,
     "version": 2,
@@ -143,10 +143,10 @@
       "params": {}
     }
   },
-  "deepswe-posit-assistant-claude-sonnet-5-5/2026-10-27T21-45-56-00-00_datacurve-deep-swe-1-1_nqdiwdT9ABNcUJuv3Rka6P.eval": {
+  "deepswe-posit-assistant-claude-sonnet-5-5/2026-10-27T21-45-56-00-00_deepswe-posit-assistant_nqdiwdT9ABNcUJuv3Rka6P.eval": {
     "eval_id": "Kg5dh874kLYSffAAjL5eUj",
     "run_id": "AdAG8Yesy5fXnyVVjyqKkV",
-    "task": "inspect_harbor/datacurve_deep_swe_1_1",
+    "task": "deepswe_posit_assistant",
     "task_id": "nqdiwdT9ABNcUJuv3Rka6P",
     "task_version": 0,
     "version": 2,
@@ -161,10 +161,10 @@
       "params": {}
     }
   },
-  "deepswe-posit-assistant-gpt-6-1-sol/2026-10-27T20-59-30-00-00_datacurve-deep-swe-1-1_EK3caREG4qxJUpKSydau6u.eval": {
+  "deepswe-posit-assistant-gpt-6-1-sol/2026-10-27T20-59-30-00-00_deepswe-posit-assistant_EK3caREG4qxJUpKSydau6u.eval": {
     "eval_id": "ANeXJv4BVskfmUQnYbRpc9",
     "run_id": "aprTje3yvTywNBmrKzUzpq",
-    "task": "inspect_harbor/datacurve_deep_swe_1_1",
+    "task": "deepswe_posit_assistant",
     "task_id": "EK3caREG4qxJUpKSydau6u",
     "task_version": 0,
     "version": 2,
