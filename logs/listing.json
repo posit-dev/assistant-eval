@@ -106,5 +106,77 @@
       "value": 0.423076923076923,
       "params": {}
     }
+  },
+  "deepswe-claude-code-claude-sonnet-5-5/2026-10-27T20-59-54-00-00_datacurve-deep-swe-1-1_NgTtewjGpPkqegmrtU2c5U.eval": {
+    "eval_id": "H4dwLj4i2X7FVMh2NB5p4n",
+    "run_id": "J9zjYJP9Yd9S9rNdcRAUqJ",
+    "task": "inspect_harbor/datacurve_deep_swe_1_1",
+    "task_id": "NgTtewjGpPkqegmrtU2c5U",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "anthropic/claude-sonnet-5-5",
+    "started_at": "2026-10-27T20:59:54+00:00",
+    "completed_at": "2026-10-27T22:07:59+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.5,
+      "params": {}
+    }
+  },
+  "deepswe-codex-gpt-6-1-sol/2026-10-27T20-59-49-00-00_datacurve-deep-swe-1-1_cCDEqLp68cKdt53zgXch9z.eval": {
+    "eval_id": "8Y3ybXTNGKA8YYoK7P5gAr",
+    "run_id": "2hQr2zqELM5jjhUDymsKNf",
+    "task": "inspect_harbor/datacurve_deep_swe_1_1",
+    "task_id": "cCDEqLp68cKdt53zgXch9z",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openai/gpt-6.1-sol",
+    "started_at": "2026-10-27T20:59:49+00:00",
+    "completed_at": "2026-10-27T22:23:11+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.7941176470588235,
+      "params": {}
+    }
+  },
+  "deepswe-posit-assistant-claude-sonnet-5-5/2026-10-27T21-45-56-00-00_datacurve-deep-swe-1-1_nqdiwdT9ABNcUJuv3Rka6P.eval": {
+    "eval_id": "Kg5dh874kLYSffAAjL5eUj",
+    "run_id": "AdAG8Yesy5fXnyVVjyqKkV",
+    "task": "inspect_harbor/datacurve_deep_swe_1_1",
+    "task_id": "nqdiwdT9ABNcUJuv3Rka6P",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "anthropic/claude-sonnet-5-5",
+    "started_at": "2026-10-27T21:45:56+00:00",
+    "completed_at": "2026-10-27T22:27:48+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.7058823529411765,
+      "params": {}
+    }
+  },
+  "deepswe-posit-assistant-gpt-6-1-sol/2026-10-27T20-59-30-00-00_datacurve-deep-swe-1-1_EK3caREG4qxJUpKSydau6u.eval": {
+    "eval_id": "ANeXJv4BVskfmUQnYbRpc9",
+    "run_id": "aprTje3yvTywNBmrKzUzpq",
+    "task": "inspect_harbor/datacurve_deep_swe_1_1",
+    "task_id": "EK3caREG4qxJUpKSydau6u",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openai/gpt-6.1-sol",
+    "started_at": "2026-10-27T20:59:30+00:00",
+    "completed_at": "2026-10-27T22:33:36+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.7352941176470589,
+      "params": {}
+    }
   }
 }
